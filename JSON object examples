@@ -5,10 +5,10 @@
 	"countco": 1000,
 	[
 	{
-	"name" : "Gallery",
-	"countvi" : 100,
-	"countco" : 100,
-	"commenda" : "5",
+	"name": "Gallery",
+	"countvi": 100,
+	"countco": 100,
+	"commenda": "5",
 	}
 	{
     "name": "Square of victory",
