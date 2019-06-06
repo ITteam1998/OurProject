@@ -1,0 +1,20 @@
+#/TourinMin/login
+POST {username: Nikita,
+password:111111}
+#/TourinMin/register
+POST {username: Nikita,
+mail: nikita@yandex.ru,
+password:111111}
+#/TourinMin/places
+GET array[{name:Gallery,
+likes: 150,
+id:{123}},...]
+#/TourinMin/viewrating
+POST {placename: Gallery,
+discount: 123, likecount: 24}
+#/TourinMin/bestcoments
+GET array[{username: Nikita, userid: 7777,
+discount: 10, likecount: 76},
+...]
+POST {name: Nikita, likecount: 76,
+commentid: 11342}
