@@ -1,0 +1,21 @@
+{
+	"name":"Places",
+	"commend average" : "1","2","3","4","5",
+	"count of views" : 1000,
+	"count of coments" : 1000,
+	[
+	{
+	"name" : "Gallery",
+	"count of views" : 100,
+	"count of coments" : 100,
+	"commend average" : "5",
+	}
+	{
+    "name" : "Square of victory",
+    "count of views" : 200,
+    "count of coments" : 150,
+    "commend average" : "4",
+	}
+	...
+	]
+}
