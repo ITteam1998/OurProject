@@ -1,21 +1,18 @@
 {
-	"name":"Places",
-	"commenda": ["1","2","3","4","5"],
-	"countvi": 1000,
-	"countco": 1000,
-	[
-	{
-	"name": "Gallery",
-	"countvi": 100,
-	"countco": 100,
-	"commenda": "5",
-	}
-	{
-    "name": "Square of victory",
-    "countvi": 200,
-    "countco": 150,
-    "commenda": "4",
-	}
-	...
-	]
+"commendAverage" : [1, 2, 3, 4, 5],
+"countOfViews" : 1000,
+"countOfComents" : 1000,
+"places" : 
+{
+"Gallery" : {
+"count of views" : 100,
+"count of coments" : 100,
+"commend average" : "5"
+},
+"Square of victory" : {
+"count of views" : 200,
+"count of coments" : 150,
+"commend average" : "4"
+} 
+}
 }
