@@ -5,14 +5,14 @@
 "places" : 
 {
 "Gallery" : {
-"count of views" : 100,
-"count of coments" : 100,
-"commend average" : "5"
+"countOfViews" : 100,
+"countOfComents" : 100,
+"commendAverage" : "5"
 },
-"Square of victory" : {
-"count of views" : 200,
-"count of coments" : 150,
-"commend average" : "4"
+"SquareOfVictory" : {
+"countOfViews" : 200,
+"countOfComents" : 150,
+"commendAverage" : "4"
 } 
 }
 }
